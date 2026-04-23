@@ -1,4 +1,5 @@
-
+# 💫 About Me:
+Hi, I'm Meet Parsana 👋<br><br>🚀 Full Stack Developer <br><br>I’m a passionate developer focused on building scalable web applications and solving real-world problems through code. I enjoy working on backend systems, designing efficient architectures, and continuously improving my problem-solving skills.<br><br>💻 Tech Stack:<br><br>* Languages: Java, Python, JavaScript<br>* Backend: Node.js, Express.js<br>* Frontend: HTML, CSS, JavaScript<br>* Databases: MySQL<br><br>🛠️ Projects:<br><br>* Console-based Stock Trading System (Java, Multithreading, Database Integration)<br>* Full Stack Web Applications using MERN Stack<br><br>📚 Currently Learning:<br><br>* Advanced Backend Development & System Design<br>* Real-world Machine Learning Applications<br><br>🎯 Goal:<br>To become an industry-ready full stack developer.<br><br>📈 Always learning, building, and improving.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Meet-parsana21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meetparsana211@gmail.com) 
 
